@@ -10,7 +10,7 @@ WorkHive is a task management application designed to streamline task organizati
 - **State Management**: Integrated Redux for effective state management, enhancing responsiveness during data fetching with loaders and spinners.
 - **Scalable Data Storage**: Utilized MongoDB for flexible, document-based storage to manage dynamic task data such as priorities, tags, and attachments.
 - **Cross-Platform Development**: Delivered seamless user experiences on both iOS and Android devices using React Native for the frontend and Golang with the Gin framework for the backend.
-- **Analytics productivity**: Features for tracking user productivity and generating actionable insights, Add calendar integration for task scheduling.
+- **Analytics Productivity**: Features for tracking user productivity and generating actionable insights, Add calendar integration for task scheduling.
 
       
 ## Technologies Used
