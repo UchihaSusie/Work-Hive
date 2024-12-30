@@ -44,7 +44,7 @@ WorkHive is a task management application designed to streamline task organizati
 Navigate to the login page and enter your credentials.
 Access the platform based on your role (owner, admin, employee) and start managing tasks.
 
-## Contribution Guidelines
+## Contribution 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 
